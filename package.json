@@ -1,0 +1,15 @@
+{
+  "name": "mongomart",
+  "version": "0.0.0",
+  "description": "ecommerce app using the mongodb driver and express",
+  "main": "mongomart.js",
+  "dependencies": {
+    "body-parser": "~1.17.2",
+    "express": "~4.15.3",
+    "mongodb": "~2.2.29",
+    "nunjucks": "~3.0.1",
+    "nunjucks-date": "~1.2.0"
+  },
+  "author": "Nick Makes",
+  "license": "0BSD"
+}
